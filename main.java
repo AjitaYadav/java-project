@@ -34,7 +34,7 @@ public class OnlineTenderManagementSystemGUI extends JFrame implements ActionLis
     }
     
     public void actionPerformed(ActionEvent event) {
-        // code to submit the tender
+        
     }
     
     public static void main(String[] args) {
